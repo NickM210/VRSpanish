@@ -1,5 +1,4 @@
 sceneSetups:
-- path: D:/Gabriel Grey Reyes/OneDrive - St. Mary's University/Spring 2019/Software
-    Engineering/VR1/VRSpanish-master/VR1/Assets/Scenes/New Scene.unity
+- path: Assets/MyData/Scenes/MainMenu.unity
   isLoaded: 1
   isActive: 1
